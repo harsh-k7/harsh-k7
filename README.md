@@ -45,9 +45,8 @@
 ---
 
 ### 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link-here  
-- 🧠 LeetCode: https://leetcode.com/your-link-here  
-- 📧 Email: your-email-here  
+- 💼 LinkedIn: https://www.linkedin.com/in/harsh-kumar-3b376232a/
+- 📧 Email: harshkumardev01@gmail.com 
 
 ---
 
